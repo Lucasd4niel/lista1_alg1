@@ -1,3 +1,6 @@
+/*9. Escreva um algoritmo que multiplique 108 por 23 e mostre o resultado com uma
+mensagem apropriada.*/
+
 #include <stdio.h>
 
 int main(void){
